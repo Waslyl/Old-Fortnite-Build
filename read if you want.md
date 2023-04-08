@@ -1,5 +1,5 @@
 # Old-Fortnite-Build
-A lot of old build of Fortnite Battle Royal
+A lot of old build of Fortnite Battle Royal (inspired by Notsamicc Build)
 
 # I am going to add more season for the future
 
